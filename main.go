@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main(){
-fmt.printf("hellow world")
-fmt.printf("Its a new file")
+func main() {
+	fmt.Printf("hellow world")
+	fmt.Printf("\none more change")
 }
